@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+#next{
+    background: none;
+    color: chocolate;
+    border: 2px solid chocolate;
+    border-radius: 5px;
+    border-style: dashed;
+    font-size: 20px;
+}
+
+#nexta{
+    text-decoration: none;
+    border: 2px solid chocolate;
+    border-radius: 5px;
+    color: chocolate;
+    border-style: dashed;
+    padding: 4px;
+    font-size: 17px;
+}
+
+#next, #nexta{
+    text-align: center;
+    margin: 1px;
+    margin-top: 510px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttons{
+    background-color: black;
+    height: 1040px;
+    width: 1880px;
+    align-items: center;
+    text-align: center;
+}
+
+#para, #head, #time
+{
+    font-family: fantasy;
+    font: 30px;
+    color: aliceblue;
+}
