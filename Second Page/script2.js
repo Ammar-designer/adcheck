@@ -1,6 +1,6 @@
 function myscript()
 {
-    window.location.href = "Index2.html"
+    window.location.href = "index2.html"
 }
 
 document.getElementById("next").onclick = myscript;
